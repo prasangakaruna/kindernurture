@@ -2,13 +2,7 @@
 
 Welcome to yeoman! If you're not familiar with gulp, we suggest checking out [their docs][gulp-docs].
 
-If you haven't already, install [yo] and this generator by running:
-
-```sh
-$ npm install --global yo generator-webapp
-```
-
-Now you can scaffold your very own web app:
+Now you can scaffold your very own web kindernurture:
 
 ```sh
 $ git clone https://github.com/prasangakaruna/kindernurture.git

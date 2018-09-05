@@ -1,4 +1,6 @@
 # Getting Started
+Note: I would like to do demo about project. if you can arrange me time tomorrow
+Included: Implementation,Tool,UI/UX tip and techniques
 
 Welcome to yeoman! If you're not familiar with gulp, we suggest checking out [their docs][gulp-docs].
 

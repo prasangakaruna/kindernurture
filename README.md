@@ -105,7 +105,7 @@ The file name in the comment block and the first source aren't related, their na
 We keep `bower_components` in the project root, you can read details about that [here](bower.md). Installing Bower components is usually as easy as:
 
 ```sh
-$ bower install --save jquery
+$ npm bower install
 ```
 
 Behind the scenes [wiredep] will automatically inject assets from your Bower components to your HTML/SCSS files as soon as you run `gulp serve` or `gulp`. If `gulp serve` was already running while installing the components, the injection will happen immediately.

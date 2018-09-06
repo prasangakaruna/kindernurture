@@ -44,8 +44,8 @@ $(document).ready(function(){
               pagination:true,
               navText: true,
               navText: [
-              "<i class='fas fa-arrow-circle-left'></i>",
-              "<i class='fas fa-arrow-circle-right'></i>"
+              '<i class=\'fas fa-arrow-circle-left\'></i>',
+              '<i class=\'fas fa-arrow-circle-right\'></i>'
               ],
               responsive:{
                   320:{

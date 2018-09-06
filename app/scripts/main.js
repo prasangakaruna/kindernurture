@@ -50,11 +50,13 @@ $(document).ready(function(){
               responsive:{
                   320:{
                       items:1,
-                      nav:true
+                      nav:true,
+                      navText: false
                   },
                   600:{
                       items:1,
-                      nav:false
+                      nav:false,
+                      navText: false
                   },
                   1000:{
                       items:1,

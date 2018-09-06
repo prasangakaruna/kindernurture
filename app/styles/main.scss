@@ -184,6 +184,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e8f0fd', end
     text-align: center;
   }
 }
+
+.owl-carousel .owl-item img {
+    display: inline;
+    width: auto!important;
+}
 .owl-theme .owl-dots .owl-dot.active span {
       background: $dottedbgBgslider!important;
 }
